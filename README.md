@@ -1,1 +1,1 @@
-# Takes String input and reverses it
+# Takes String input and display the reverse.
